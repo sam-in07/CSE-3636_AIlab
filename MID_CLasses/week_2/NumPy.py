@@ -1,4 +1,4 @@
-NumPy example code:
+# NumPy example code:
 
 import numpy as np
 
